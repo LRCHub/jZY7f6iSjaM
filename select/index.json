@@ -1,0 +1,64 @@
+{
+  "version": 1,
+  "base_track": "トライ・エヴリシング",
+  "base_artist": "Shakira",
+  "createdAt": "2025-12-19T11:49:02.548486Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "トライ・エヴリシング - Dream Ami version",
+      "artist": "Dream Ami",
+      "has_synced": true,
+      "path": "select/01_トライ・エヴリシング_-_Dream_Ami_version_Dream_Ami.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Dream Ami / トライ・エヴリシング (Dream Ami version)",
+      "artist": "Do As Infinity",
+      "has_synced": true,
+      "path": "select/02_Dream_Ami___トライ・エヴリシング_(Dream_Ami_version)_Do_As_Infinity.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "トライ・エヴリシング",
+      "artist": "Dream Ami",
+      "has_synced": true,
+      "path": "select/03_トライ・エヴリシング_Dream_Ami.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "トライ・エヴリシング (ズーラシアン・フィルハーモニー・バージョン)",
+      "artist": "Dream Ami",
+      "has_synced": true,
+      "path": "select/04_トライ・エヴリシング_(ズーラシアン・フィルハーモニー・バージョン)_Dream_Ami.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "トライ･エヴリシング (Dream Ami version) - TRY EVERYTHING (DREAM AMI VERSION)",
+      "artist": "Dream Ami",
+      "has_synced": true,
+      "path": "select/05_トライ・エヴリシング_(Dream_Ami_version)_-_TRY_EVERYTHING_(DREAM_AMI_VERSION)_Dream_Ami.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "トライ・エヴリシング - Dream Ami version",
+      "artist": "Dream Ami",
+      "has_synced": true,
+      "path": "select/06_トライ・エヴリシング_-_Dream_Ami_version_Dream_Ami.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Try Everything",
+      "artist": "Shakira",
+      "has_synced": false,
+      "path": "select/pl_01_Try_Everything_Shakira.txt"
+    }
+  ]
+}
